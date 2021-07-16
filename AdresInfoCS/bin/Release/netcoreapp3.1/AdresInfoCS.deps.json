@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AdresInfoCS/1.0.0": {
+        "dependencies": {
+          "AdresInfoCL": "1.0.0"
+        },
+        "runtime": {
+          "AdresInfoCS.dll": {}
+        }
+      },
+      "AdresInfoCL/1.0.0": {
+        "runtime": {
+          "AdresInfoCL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdresInfoCS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdresInfoCL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

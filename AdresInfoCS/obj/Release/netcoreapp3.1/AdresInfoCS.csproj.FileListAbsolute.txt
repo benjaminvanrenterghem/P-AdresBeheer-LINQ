@@ -1,0 +1,16 @@
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_linq_adressen\AdresInfo\AdresInfoCS\bin\Release\netcoreapp3.1\AdresInfoCS.exe
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_linq_adressen\AdresInfo\AdresInfoCS\bin\Release\netcoreapp3.1\AdresInfoCS.deps.json
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_linq_adressen\AdresInfo\AdresInfoCS\bin\Release\netcoreapp3.1\AdresInfoCS.runtimeconfig.json
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_linq_adressen\AdresInfo\AdresInfoCS\bin\Release\netcoreapp3.1\AdresInfoCS.runtimeconfig.dev.json
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_linq_adressen\AdresInfo\AdresInfoCS\bin\Release\netcoreapp3.1\AdresInfoCS.dll
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_linq_adressen\AdresInfo\AdresInfoCS\bin\Release\netcoreapp3.1\AdresInfoCS.pdb
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_linq_adressen\AdresInfo\AdresInfoCS\bin\Release\netcoreapp3.1\AdresInfoCL.dll
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_linq_adressen\AdresInfo\AdresInfoCS\bin\Release\netcoreapp3.1\AdresInfoCL.pdb
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_linq_adressen\AdresInfo\AdresInfoCS\obj\Release\netcoreapp3.1\AdresInfoCS.csprojAssemblyReference.cache
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_linq_adressen\AdresInfo\AdresInfoCS\obj\Release\netcoreapp3.1\AdresInfoCS.AssemblyInfoInputs.cache
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_linq_adressen\AdresInfo\AdresInfoCS\obj\Release\netcoreapp3.1\AdresInfoCS.AssemblyInfo.cs
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_linq_adressen\AdresInfo\AdresInfoCS\obj\Release\netcoreapp3.1\AdresInfoCS.csproj.CoreCompileInputs.cache
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_linq_adressen\AdresInfo\AdresInfoCS\obj\Release\netcoreapp3.1\AdresInfoCS.csproj.CopyComplete
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_linq_adressen\AdresInfo\AdresInfoCS\obj\Release\netcoreapp3.1\AdresInfoCS.dll
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_linq_adressen\AdresInfo\AdresInfoCS\obj\Release\netcoreapp3.1\AdresInfoCS.pdb
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_linq_adressen\AdresInfo\AdresInfoCS\obj\Release\netcoreapp3.1\AdresInfoCS.genruntimeconfig.cache

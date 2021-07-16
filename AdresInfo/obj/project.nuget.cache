@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aANwh87DEufw8b8Iw4E8P3DwIx1HqHod6NnWZBsjvacd4GmrqiSOd+A1J8GsYRAP5NOC0J3tXvgJ3U2dn78KFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\server\\Documents\\GitHub\\Programmeren-gevorderd\\Opdracht_linq_adressen\\AdresInfo\\AdresInfo\\AdresInfoCL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\server\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\server\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

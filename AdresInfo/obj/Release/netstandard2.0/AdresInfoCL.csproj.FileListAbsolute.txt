@@ -1,0 +1,9 @@
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_linq_adressen\AdresInfo\AdresInfo\bin\Release\netstandard2.0\AdresInfoCL.deps.json
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_linq_adressen\AdresInfo\AdresInfo\bin\Release\netstandard2.0\AdresInfoCL.dll
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_linq_adressen\AdresInfo\AdresInfo\bin\Release\netstandard2.0\AdresInfoCL.pdb
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_linq_adressen\AdresInfo\AdresInfo\obj\Release\netstandard2.0\AdresInfoCL.csprojAssemblyReference.cache
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_linq_adressen\AdresInfo\AdresInfo\obj\Release\netstandard2.0\AdresInfoCL.AssemblyInfoInputs.cache
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_linq_adressen\AdresInfo\AdresInfo\obj\Release\netstandard2.0\AdresInfoCL.AssemblyInfo.cs
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_linq_adressen\AdresInfo\AdresInfo\obj\Release\netstandard2.0\AdresInfoCL.csproj.CoreCompileInputs.cache
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_linq_adressen\AdresInfo\AdresInfo\obj\Release\netstandard2.0\AdresInfoCL.dll
+C:\Users\server\Desktop\HOGENT\GithubHogent\PRG-Gevorderd\Programmeren-gevorderd\Opdracht_linq_adressen\AdresInfo\AdresInfo\obj\Release\netstandard2.0\AdresInfoCL.pdb

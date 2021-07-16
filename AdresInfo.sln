@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdresInfoCL", "AdresInfo\AdresInfoCL.csproj", "{DD4F1E8D-D89C-49A9-8BAF-D9CF4FCC74F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdresInfoCS", "AdresInfoCS\AdresInfoCS.csproj", "{3B1912C9-CADE-48E8-B3E2-72B239F60D7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD4F1E8D-D89C-49A9-8BAF-D9CF4FCC74F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4F1E8D-D89C-49A9-8BAF-D9CF4FCC74F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4F1E8D-D89C-49A9-8BAF-D9CF4FCC74F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4F1E8D-D89C-49A9-8BAF-D9CF4FCC74F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B1912C9-CADE-48E8-B3E2-72B239F60D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B1912C9-CADE-48E8-B3E2-72B239F60D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B1912C9-CADE-48E8-B3E2-72B239F60D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B1912C9-CADE-48E8-B3E2-72B239F60D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AACA17DB-A49F-4899-BB09-639379354C52}
+	EndGlobalSection
+EndGlobal
